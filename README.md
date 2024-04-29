@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# swapi-paginate-react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It features example project with pagination using non official Swapi API.
+
+![Swapi Pagination Gif](./swapi_pagination.gif)
 
 ## Available Scripts
 
